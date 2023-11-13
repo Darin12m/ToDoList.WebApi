@@ -1,0 +1,15 @@
+C:\Users\darin\Desktop\ZaGitHub\ToDoList\ToDoList.Services\bin\Debug\net6.0\ToDoList.Services.deps.json
+C:\Users\darin\Desktop\ZaGitHub\ToDoList\ToDoList.Services\bin\Debug\net6.0\ToDoList.Services.dll
+C:\Users\darin\Desktop\ZaGitHub\ToDoList\ToDoList.Services\bin\Debug\net6.0\ToDoList.Services.pdb
+C:\Users\darin\Desktop\ZaGitHub\ToDoList\ToDoList.Services\obj\Debug\net6.0\ToDoList.Services.csproj.AssemblyReference.cache
+C:\Users\darin\Desktop\ZaGitHub\ToDoList\ToDoList.Services\obj\Debug\net6.0\ToDoList.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darin\Desktop\ZaGitHub\ToDoList\ToDoList.Services\obj\Debug\net6.0\ToDoList.Services.AssemblyInfoInputs.cache
+C:\Users\darin\Desktop\ZaGitHub\ToDoList\ToDoList.Services\obj\Debug\net6.0\ToDoList.Services.AssemblyInfo.cs
+C:\Users\darin\Desktop\ZaGitHub\ToDoList\ToDoList.Services\obj\Debug\net6.0\ToDoList.Services.csproj.CoreCompileInputs.cache
+C:\Users\darin\Desktop\ZaGitHub\ToDoList\ToDoList.Services\obj\Debug\net6.0\ToDoList.Services.dll
+C:\Users\darin\Desktop\ZaGitHub\ToDoList\ToDoList.Services\obj\Debug\net6.0\refint\ToDoList.Services.dll
+C:\Users\darin\Desktop\ZaGitHub\ToDoList\ToDoList.Services\obj\Debug\net6.0\ToDoList.Services.pdb
+C:\Users\darin\Desktop\ZaGitHub\ToDoList\ToDoList.Services\obj\Debug\net6.0\ref\ToDoList.Services.dll
+C:\Users\darin\Desktop\ZaGitHub\ToDoList\ToDoList.Services\bin\Debug\net6.0\ToDoList.Data.dll
+C:\Users\darin\Desktop\ZaGitHub\ToDoList\ToDoList.Services\bin\Debug\net6.0\ToDoList.Data.pdb
+C:\Users\darin\Desktop\ZaGitHub\ToDoList\ToDoList.Services\obj\Debug\net6.0\ToDoList.Services.csproj.CopyComplete
